@@ -22,5 +22,4 @@ Componentes
 -DHT11 -> como el sensor
 -COMPIM -> como el conversor de usb a serial
 
-accede a mas descripcion [https://www.notion.so/Incubadora-d775c36583114123bcd0c2127ed0f25d](Proyecto incubadora de huevos de gallina
-)
+Accede a mas descripcion [apuntes de notion](https://www.notion.so/Incubadora-d775c36583114123bcd0c2127ed0f25d)
